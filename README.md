@@ -40,7 +40,7 @@ PDF upload (e.g. Aline’s book)
 
 
 ## Expected Output:
-
+```
 {
   "team_id": "aline123",
   "items": [
@@ -54,7 +54,7 @@ PDF upload (e.g. Aline’s book)
     }
   ]
 }
-
+```
 
 
 
