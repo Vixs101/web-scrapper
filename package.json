@@ -1,0 +1,27 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vixs101/web-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vixs101/web-scrapper/issues"
+  },
+  "homepage": "https://github.com/Vixs101/web-scrapper#readme",
+  "description": "",
+  "dependencies": {
+    "@opendocsg/pdf2md": "^0.2.1",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "puppeteer": "^24.10.1",
+    "turndown": "^7.2.0"
+  }
+}
